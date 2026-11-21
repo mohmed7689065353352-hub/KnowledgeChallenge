@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">تحدي المعرفة والذكاء</string>
+    <string name="home_title">تحدي المعرفة والذكاء</string>
+    <string name="home_subtitle">اختبر معلوماتك وتحدَّ نفسك كل يوم</string>
+    <string name="balance_hints">التلميحات</string>
+    <string name="balance_attempts">المحاولات</string>
+    <string name="section_categories">اختر القسم</string>
+    <string name="cat_general">الثقافة العامة</string>
+    <string name="cat_science">العلوم</string>
+    <string name="cat_logic">المنطق</string>
+    <string name="cat_quick">معلومات سريعة</string>
+    <string name="quick_challenge">ابدأ تحديًا سريعًا</string>
+    <string name="reward_section_title">احصل على المزيد (اختياري)</string>
+    <string name="reward_section_desc">شاهد إعلانًا قصيرًا حتى نهايته لتحصل على المكافأة التي تختارها.</string>
+    <string name="reward_hint_button">إعلان مقابل تلميح +1</string>
+    <string name="reward_attempt_button">إعلان مقابل محاولة +1</string>
+    <string name="ad_loading">جارٍ تجهيز الإعلان…</string>
+    <string name="msg_hint_granted">تمت إضافة تلميح إلى رصيدك</string>
+    <string name="msg_attempt_granted">تمت إضافة محاولة إلى رصيدك</string>
+    <string name="msg_ad_not_ready">الإعلان غير جاهز حاليًا، حاول بعد قليل</string>
+
+    <!-- شاشة التحدي -->
+    <string name="back">رجوع</string>
+    <string name="quiz_question_counter">السؤال %1$d من %2$d</string>
+    <string name="quiz_hint_button">استخدم تلميحًا (يحذف إجابتين خاطئتين)</string>
+    <string name="quiz_correct">إجابة صحيحة! 🎉</string>
+    <string name="quiz_wrong">إجابة خاطئة</string>
+    <string name="quiz_use_attempt">استخدم محاولة وأجب مرة أخرى</string>
+    <string name="quiz_next">السؤال التالي</string>
+    <string name="quiz_finish">عرض النتيجة</string>
+    <string name="msg_no_hints">لا يوجد رصيد تلميحات. يمكنك الحصول على المزيد من الشاشة الرئيسية.</string>
+    <string name="msg_no_attempts">لا يوجد رصيد محاولات.</string>
+
+    <!-- شاشة الملخص -->
+    <string name="summary_title">نتيجة الجولة</string>
+    <string name="summary_score">%1$d من %2$d</string>
+    <string name="summary_great">ممتاز! أداء رائع 👏</string>
+    <string name="summary_good">جيد جدًا، واصل التقدم 💪</string>
+    <string name="summary_try">لا بأس، جرّب مرة أخرى وستتحسن 🌱</string>
+    <string name="summary_balance">رصيدك الحالي</string>
+    <string name="summary_replay">إعادة اللعب</string>
+    <string name="summary_home">العودة للرئيسية</string>
+
+    <!-- الخصوصية -->
+    <string name="privacy_options">إعدادات الخصوصية والإعلانات</string>
+
+    <!-- التحدي اليومي -->
+    <string name="daily_title">التحدي اليومي</string>
+    <string name="daily_streak">🔥 السلسلة: %1$d يوم</string>
+    <string name="daily_desc">5 أسئلة جديدة كل يوم. المكافأة: تلميح +1، ومحاولة +1 عند العلامة الكاملة.</string>
+    <string name="daily_start">ابدأ تحدي اليوم</string>
+    <string name="daily_done">أنجزت تحدي اليوم ✅ عد غدًا</string>
+    <string name="daily_reward">مكافأة التحدي اليومي: تلميح +%1$d، ومحاولة +%2$d</string>
+</resources>
